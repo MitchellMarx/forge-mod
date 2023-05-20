@@ -324,7 +324,7 @@
             - Add loader manager and registration event
             - Fold all model events into one
             - Move registration of additionally loaded models to an event
-            - Remove ForgeModelBakery and related classes as they served no purpose anymore
+            - Remove forgemodelBakery and related classes as they served no purpose anymore
             * Render properties refactors
             - Rename all render properties to client extensions and relocate accordingly
             - Move lookups to the respective interfaces
